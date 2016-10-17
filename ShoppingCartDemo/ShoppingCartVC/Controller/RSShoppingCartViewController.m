@@ -1,10 +1,4 @@
-//
-//  ShoppingCartViewController.m
-//  RedStarMain
-//
-//  Created by LT on 16/7/15.
-//  Copyright © 2016年 apple. All rights reserved.
-//
+
 
 #import "RSShoppingCartViewController.h"
 //Cell

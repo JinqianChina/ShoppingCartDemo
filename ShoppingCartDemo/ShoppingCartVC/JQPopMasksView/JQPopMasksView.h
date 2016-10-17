@@ -12,7 +12,6 @@
 
 @protocol JQPopMasksViewDelegate <NSObject>
 
-
 @end
 
 @interface JQPopMasksView : UIView
